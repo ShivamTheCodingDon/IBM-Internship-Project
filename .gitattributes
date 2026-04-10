@@ -2,3 +2,5 @@ torque_pred.joblib filter=lfs diff=lfs merge=lfs -text
 measures_v2.csv filter=lfs diff=lfs merge=lfs -text
 *.joblib filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/*.joblib filter=lfs diff=lfs merge=lfs -text
+data/*.csv filter=lfs diff=lfs merge=lfs -text

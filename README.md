@@ -1,4 +1,4 @@
-![EV Motor Optimization Banner](C:\Users\Aman\.gemini\antigravity\brain\b8f807c5-a938-49b4-a2bf-58833b66604b\ev_project_banner_png_1775809406869.png)
+![EV Motor Optimization Banner](assets/banner.png)
 
 # EV Motor Performance & Efficiency Optimization Suite
 
